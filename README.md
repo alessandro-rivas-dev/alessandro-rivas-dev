@@ -3,7 +3,7 @@
 #### 💫 About me
 <p>
     A Full Stack JS developer with experience in Frontend development using technologies like jQuery and Alpinejs.
-    Would you like watch my personal GitHub? Check out on <a href="https://github.com/Alessandrror" target="_blank">Alessandrro's GitHub</a>
+    Would you like to watch my personal GitHub? Check out on <a href="https://github.com/Alessandrror" target="_blank">Alessandrro's GitHub</a>
 </p>
 
 ---
