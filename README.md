@@ -1,17 +1,20 @@
 # ✨ Hey Hi Hello ✨
 ### 👋🏻 Hi, I’m Alessandro Rivas
 #### 💫 About me
-A Full Stack JS developer with experience in Frontend development using technologies like jQuery and Alpinejs.
+<p>
+    A Full Stack JS developer with experience in Frontend development using technologies like jQuery and Alpinejs.
+    Would you like watch my personal GitHub? Check out on <a href="https://github.com/Alessandrror" target="_blank">Alessandrro's GitHub</a>
+</p>
+
 ---
+
 #### 🌐 Share code
 [![Codepen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)](https://codepen.io/alessandrror)
 [![Codewars](https://img.shields.io/static/v1?style=for-the-badge&message=Codewars&color=B1361E&logo=Codewars&logoColor=FFFFFF&label=)](https://www.codewars.com/users/Alessandrror)
 
 ---
 ### 💻 Technologies
-##
 
-<h3 align="center">🎒 Current stack</h3>
 <p align="center">
     <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
