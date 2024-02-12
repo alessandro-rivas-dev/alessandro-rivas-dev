@@ -2,7 +2,7 @@
 ### 👋🏻 Hi, I’m Alessandro Rivas
 #### 💫 About me
 <p>
-    A Full Stack JS developer with experience in Frontend development using technologies like jQuery and Alpinejs.
+    A Full Stack JS developer with development experience using technologies like JavaScript, jQuery, Alpinejs, PHP, Lumen and Laravel.
     Would you like to watch my personal GitHub? Check out on <a href="https://github.com/Alessandrror" target="_blank">Alessandrro's GitHub</a>
 </p>
 
